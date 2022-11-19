@@ -1,8 +1,9 @@
-<!-- # SQL -->
-<!-- Few SQL assignments done with high level queries
+# SQL 
+Few SQL assignments done with high level queries
 Assignemnt 1-8 contains all concepts of SQL 
 All types of statements DDL , DML , DCL, DQL 
-concepts of joins , subqueries , queries, correlated subqueries are covered under these. -->
+concepts of joins , subqueries , queries, correlated subqueries are covered under these. 
+<!--
 ### About Me 🚀
 - 🎓 Senior Computer Science student at Thapar Institute Of Engineering And Technology.
 - 👨‍💻 Passionate about Software Development. Enjoy learning new things.
@@ -27,4 +28,5 @@ concepts of joins , subqueries , queries, correlated subqueries are covered unde
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prince-Hash-Lab) &nbsp; [![Github](https://img.shields.io/github/followers/Prince-Hash-Lab?label=Follow&style=social)](https://github.com/Prince-Hash-Lab)
+-->
 
